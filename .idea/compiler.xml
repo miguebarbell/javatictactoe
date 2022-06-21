@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-A_suitable_output.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Check_a_number_is_positive.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-First_digit.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-Good_rest_on_vacation.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-Next_even_number.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-What_does_the_code_print.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Determine_the_result.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-From_sum_to_product.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Grades.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-The_count_of_numbers_divisible_by_N.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-The_sum_of_integers_from_a_to_b.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Magic_code.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_number_of_loop_body_executions.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-The_smallest_value.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
